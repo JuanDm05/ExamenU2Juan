@@ -1,0 +1,8 @@
+C:\Users\UTS-CDS\Documents\mba\Examen_JADM\bin\Debug\Examen_JADM.exe.config
+C:\Users\UTS-CDS\Documents\mba\Examen_JADM\bin\Debug\Examen_JADM.exe
+C:\Users\UTS-CDS\Documents\mba\Examen_JADM\bin\Debug\Examen_JADM.pdb
+C:\Users\UTS-CDS\Documents\mba\Examen_JADM\obj\Debug\Examen_JADM.csproj.AssemblyReference.cache
+C:\Users\UTS-CDS\Documents\mba\Examen_JADM\obj\Debug\Examen_JADM.csproj.SuggestedBindingRedirects.cache
+C:\Users\UTS-CDS\Documents\mba\Examen_JADM\obj\Debug\Examen_JADM.csproj.CoreCompileInputs.cache
+C:\Users\UTS-CDS\Documents\mba\Examen_JADM\obj\Debug\Examen_JADM.exe
+C:\Users\UTS-CDS\Documents\mba\Examen_JADM\obj\Debug\Examen_JADM.pdb
